@@ -177,21 +177,29 @@
       flex-direction: column;
       gap: 2rem;
       text-align: center;
+      align-items: center;
+      padding: 0 1rem;
     }
     .hero-text {
       text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
     .hero-photo-wrap {
-      margin: 0 auto;
-      margin-left: 0;
+      display: flex;
+      justify-content: center;
+      width: 100%;
     }
     .hero-photo {
       width: 220px;
       height: 220px;
+      margin: 0 auto;
     }
     .hero-name {
       font-size: clamp(2.2rem, 10vw, 3.2rem);
       white-space: normal;
+      text-align: center;
     }
     .hero-tagline {
       justify-content: center;
