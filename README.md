@@ -1,20 +1,68 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎨 Sahil Kumar — Portfolio
 
-# Run and deploy your AI Studio app
+> **Graphic Designer & Web Developer** crafting visually stunning digital experiences through design thinking and clean code.
 
-This contains everything you need to run your app locally.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-View your app in AI Studio: https://ai.studio/apps/4666d926-7f94-4774-9ea9-55a7ac5ab148
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- **Typing Effect** — Animated name reveal with blinking cursor
+- **3D Tilt Cards** — Interactive perspective-based tilt on hover
+- **Parallax Scrolling** — Multi-speed scroll effects across all sections
+- **Lightbox Gallery** — Click-to-view fullscreen project images with keyboard navigation
+- **Smooth Scroll** — Lenis-powered buttery smooth page scrolling
+- **Responsive Design** — Optimized for desktop, tablet, and mobile
+- **Animated Skills** — Scroll-triggered progress bars with real tech logos
+- **Dark Theme** — Premium glassmorphism UI with grain texture overlay
 
+## 📂 Sections
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+| Section | Description |
+|---|---|
+| 🏠 **Hero** | Profile photo, typing name effect, pop-in tagline |
+| 💼 **Skills** | Programming languages & software proficiency with official logos |
+| 🎓 **Education** | Animated timeline — Army Public School → B.Tech (MDU) → B.Design (LPU) |
+| 🎨 **Projects** | 5 design categories with image galleries + 6 live website links |
+| 🤝 **Social Work** | Samrasa Foundation community events |
+| 📬 **Contact** | Email, WhatsApp, and social media links |
+
+## 🚀 Quick Start
+
+```bash
+# Clone
+git clone https://github.com/therookcode/Portfolio.git
+cd Portfolio
+
+# Install & Run
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 🛠️ Tech Stack
+
+- **Framework:** React 18 + TypeScript
+- **Build Tool:** Vite
+- **Styling:** TailwindCSS + Vanilla CSS
+- **Animations:** GSAP ScrollTrigger + Intersection Observer
+- **Smooth Scroll:** Lenis
+- **Icons:** Devicon CDN + Custom SVGs
+
+## 📸 Screenshots
+
+*Coming soon — deploy & add live preview link here.*
+
+## 📄 License
+
+© 2026 Sahil Kumar. All rights reserved.
+
+---
+
+**Designed & Developed by [Sahil Kumar](https://github.com/therookcode)**
